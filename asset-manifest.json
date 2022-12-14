@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mehedimd/deploy-react.git/static/css/main.44f8b8b5.css",
+    "main.js": "/mehedimd/deploy-react.git/static/js/main.bd073ff1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mehedimd/deploy-react.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/hero-img.svg": "/mehedimd/deploy-react.git/static/media/hero-img.c7fa21b45182274b66aa1ad93126f30f.svg",
+    "static/media/logo.svg": "/mehedimd/deploy-react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mehedimd/deploy-react.git/index.html",
+    "main.44f8b8b5.css.map": "/mehedimd/deploy-react.git/static/css/main.44f8b8b5.css.map",
+    "main.bd073ff1.js.map": "/mehedimd/deploy-react.git/static/js/main.bd073ff1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mehedimd/deploy-react.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.bd073ff1.js"
+  ]
+}
